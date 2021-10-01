@@ -13,7 +13,7 @@ With vanilla JavaScript this app is a simple list maker.  It allows the user to 
 * JavaScript
 * HTML
 
-![item-lister](assets/item-lister.png)
+![item-lister](assets/item-lister-screenshot.png)
 
 ### Click this link to view the application 
 https://michelleberta.github.io/item-lister/
